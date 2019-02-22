@@ -1,0 +1,23 @@
+plugins {
+    //id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.7'
+}
+
+group 'net.voidjinn'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 11
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+javafx {
+    modules = [ 'javafx.controls' ]
+    version = "11.0.1"
+}
