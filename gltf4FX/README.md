@@ -1,8 +1,8 @@
 # gltf4FX
-A library to enchance JavFX with the ability to import files of the gltf-format (version 2.0 specififcally).
-
+A library to enchance JavaFX with the capability to import files of the GLTF2.0-format.
+ 
 ## Built With
-- Maven - Dependency Management
+- Gradle - Dependency Management
 
 ## Open Tasks
 - [x] Load meshes (mesh-primitives joined into one geometry)
