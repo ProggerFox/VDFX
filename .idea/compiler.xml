@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="net.voidjinn.gltf4FX.main" target="11" />
+      <module name="net.voidjinn.gltf4FX.test" target="11" />
+      <module name="net.voidjinn.VDFX-Core.main" target="11" />
+      <module name="net.voidjinn.VDFX-Core.test" target="11" />
+      <module name="net.voidjinn.VDFX.main" target="11" />
+      <module name="net.voidjinn.VDFX.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

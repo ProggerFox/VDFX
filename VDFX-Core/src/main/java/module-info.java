@@ -7,9 +7,6 @@ module VDFX {
     requires javafx.graphicsEmpty;
     
     exports net.voidjinn.lib.vdfx.base.util.math.geom;
-    exports net.voidjinn.lib.vdfx.base.util.math.geom.transform;
     exports net.voidjinn.lib.vdfx.asset3d.asset;
     exports net.voidjinn.lib.vdfx.asset3d.importer;
-    exports net.voidjinn.lib.vdfx.asset3d.scene.shape;
-    exports net.voidjinn.lib.vdfx.asset3d.scene.shape.symbolic;
 }

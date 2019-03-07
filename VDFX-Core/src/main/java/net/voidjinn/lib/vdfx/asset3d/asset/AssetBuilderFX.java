@@ -5,12 +5,14 @@
  */
 package net.voidjinn.lib.vdfx.asset3d.asset;
 
+/*
 import java.util.*;
 import javafx.scene.*;
 import javafx.scene.shape.*;
 import javafx.scene.transform.Affine;
 import net.voidjinn.lib.vdfx.asset3d.importer.ImporterData;
 import net.voidjinn.lib.vdfx.asset3d.scene.shape.*;
+*/
 
 /**
  *
@@ -18,7 +20,9 @@ import net.voidjinn.lib.vdfx.asset3d.scene.shape.*;
  */
 public class AssetBuilderFX {
 
+    /*
     public Node build(ImporterData data) {
+
         Node node = null;
         if (data != null) {
             if (data.isWholeScene()) {
@@ -38,12 +42,12 @@ public class AssetBuilderFX {
 
     public PolygonMeshView processAssetMesh(AssetMesh assetMesh) {
         switch (assetMesh.getMeshType()) {
-            /*
+
       case STATIC:
         final AssetStaticMesh staticMesh = (AssetStaticMesh) assetMesh;
         return setPolygonMeshView(staticMesh.testBuildPM(), staticMesh);
       //return setMeshView(buildStaticMesh(staticMesh), staticMesh);
-             */
+
             case DYNAMIC:
                 final AssetDynamicMesh dynamicMesh = (AssetDynamicMesh) assetMesh;
                 return setPolygonMeshView(buildDynamicMesh(dynamicMesh), dynamicMesh);
@@ -106,4 +110,5 @@ public class AssetBuilderFX {
         view.setCullFace(CullFace.BACK);
         return view;
     }
+    */
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.voidjinn.VDFX.iml" filepath="$PROJECT_DIR$/.idea/modules/net.voidjinn.VDFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VDFX-Core/net.voidjinn.VDFX-Core.iml" filepath="$PROJECT_DIR$/.idea/modules/VDFX-Core/net.voidjinn.VDFX-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VDFX-Core/net.voidjinn.VDFX-Core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/VDFX-Core/net.voidjinn.VDFX-Core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VDFX-Core/net.voidjinn.VDFX-Core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/VDFX-Core/net.voidjinn.VDFX-Core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.voidjinn.VDFX.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.voidjinn.VDFX.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.voidjinn.VDFX.test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.voidjinn.VDFX.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gltf4FX/net.voidjinn.gltf4FX.iml" filepath="$PROJECT_DIR$/.idea/modules/gltf4FX/net.voidjinn.gltf4FX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gltf4FX/net.voidjinn.gltf4FX.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gltf4FX/net.voidjinn.gltf4FX.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gltf4FX/net.voidjinn.gltf4FX.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gltf4FX/net.voidjinn.gltf4FX.test.iml" />
+    </modules>
+  </component>
+</project>

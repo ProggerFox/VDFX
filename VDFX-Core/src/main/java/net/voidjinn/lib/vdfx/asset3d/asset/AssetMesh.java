@@ -7,7 +7,6 @@ package net.voidjinn.lib.vdfx.asset3d.asset;
 
 import javafx.scene.shape.*;
 import net.voidjinn.lib.vdfx.asset3d.importer.ImporterData;
-import net.voidjinn.lib.vdfx.asset3d.scene.shape.*;
 
 /**
  *
@@ -73,17 +72,6 @@ public abstract class AssetMesh extends Asset3D {
 
     public MeshType getMeshType() {
         return meshType;
-    }
-
-    private PolygonMeshView testView;
-
-    public void setTestView(PolygonMesh mesh) {
-        this.testView = new PolygonMeshView(mesh);
-        testView.setCullFace(CullFace.BACK);
-    }
-
-    public PolygonMeshView getTestView() {
-        return testView;
     }
 
     public enum MeshType {

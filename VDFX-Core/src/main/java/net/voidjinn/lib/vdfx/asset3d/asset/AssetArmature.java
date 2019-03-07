@@ -9,7 +9,6 @@ import java.util.*;
 import javafx.scene.Parent;
 import javafx.scene.transform.Affine;
 import net.voidjinn.lib.vdfx.asset3d.importer.ImporterData;
-import net.voidjinn.lib.vdfx.asset3d.scene.shape.Joint;
 
 /**
  *
@@ -18,7 +17,7 @@ import net.voidjinn.lib.vdfx.asset3d.scene.shape.Joint;
 public class AssetArmature extends Asset3D {
 
   private final Affine bindGlobalTransform = new Affine();
-  private final Map<String, Joint> joints = new HashMap<>();
+  private final Map<String, BoneData> joints = new HashMap<>();
   private final List<Parent> jointForest = new ArrayList<>();
   private final List<Affine> bindTransforms = new ArrayList<>();
 
@@ -30,7 +29,7 @@ public class AssetArmature extends Asset3D {
     return bindGlobalTransform;
   }
 
-  public Map<String, Joint> getJoints() {
+  public Map<String, BoneData> getJoints() {
     return joints;
   }
 

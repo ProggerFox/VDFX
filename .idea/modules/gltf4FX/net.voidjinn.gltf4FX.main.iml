@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":gltf4FX:main" external.linked.project.path="$MODULE_DIR$/../../../gltf4FX" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="net.voidjinn" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../../gltf4FX/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../gltf4FX/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../gltf4FX/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Gradle: net.voidjinn:VDFX:1.0-SNAPSHOT">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Could not find net.voidjinn:VDFX:1.0-SNAPSHOT.&#13;&#10;Searched in the following locations:&#13;&#10;  - https:/repo.maven.apache.org/maven2/net/voidjinn/VDFX/1.0-SNAPSHOT/maven-metadata.xml&#13;&#10;  - https:/repo.maven.apache.org/maven2/net/voidjinn/VDFX/1.0-SNAPSHOT/VDFX-1.0-SNAPSHOT.pom&#13;&#10;  - https:/repo.maven.apache.org/maven2/net/voidjinn/VDFX/1.0-SNAPSHOT/VDFX-1.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:win:11.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:win:11.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:11.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:win:11.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:11.0.1" level="project" />
+  </component>
+</module>
